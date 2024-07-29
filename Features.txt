@@ -1,0 +1,4 @@
+-Fix fuel
+-Create Lap charts overlay
+-toggle launching of each overlay
+-colour change settings file
